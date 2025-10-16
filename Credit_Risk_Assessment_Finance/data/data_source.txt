@@ -1,1 +1,88 @@
+CREDIT RISK DATASET - DATA SOURCE
+=====================================
 
+Dataset URL:
+https://www.kaggle.com/datasets/devavratapoilkar/credit-risk-dataset
+
+Source: Kaggle
+Last Accessed: October 2025
+
+
+DATA DICTIONARY SUMMARY
+========================
+
+This dataset contains information about borrowers and their credit profiles, used to assess credit risk and predict loan defaults.
+
+Key Variables:
+
+1. person_age: Age of the borrower (numeric)
+   - Range: 18-100+ years
+   - Used to assess life stage and risk profile
+
+2. person_income: Annual income of the borrower (numeric)
+   - Currency: USD
+   - Key indicator of repayment capacity
+
+3. person_home_ownership: Home ownership status (categorical)
+   - Values: RENT, OWN, MORTGAGE, OTHER
+   - Indicates financial stability
+
+4. person_emp_length: Employment length in years (numeric)
+   - Indicator of job stability
+   - Correlated with income reliability
+
+5. loan_intent: Purpose of the loan (categorical)
+   - Values: PERSONAL, EDUCATION, MEDICAL, VENTURE, HOMEIMPROVEMENT, DEBTCONSOLIDATION
+   - Different intents carry different risk levels
+
+6. loan_grade: Credit grade assigned to the loan (categorical)
+   - Values: A, B, C, D, E, F, G
+   - A = Lowest risk, G = Highest risk
+
+7. loan_amnt: Loan amount requested (numeric)
+   - Currency: USD
+   - Higher amounts typically indicate higher risk
+
+8. loan_int_rate: Interest rate on the loan (numeric)
+   - Percentage value
+   - Reflects lender's risk assessment
+
+9. loan_percent_income: Loan amount as percentage of income (numeric)
+   - Key debt-to-income indicator
+   - Higher values indicate higher default risk
+
+10. cb_person_default_on_file: Historical default (categorical)
+    - Values: Y (Yes), N (No)
+    - Strong predictor of future defaults
+
+11. cb_person_cred_hist_length: Credit history length in years (numeric)
+    - Longer history generally indicates lower risk
+
+12. loan_status: Loan default status - TARGET VARIABLE (binary)
+    - Values: 0 (No Default), 1 (Default)
+    - This is what we're trying to predict
+
+
+DATASET STATISTICS
+==================
+- Total Records: ~32,000+ observations
+- Features: 12 variables (11 predictors + 1 target)
+- Missing Values: Minimal (<2% in most columns)
+- Class Balance: Imbalanced dataset (defaults are minority class)
+- Data Type: Mix of numerical and categorical variables
+
+
+USAGE NOTES
+============
+- Dataset is publicly available for educational and research purposes
+- May require preprocessing for missing values and outliers
+- Consider class imbalance when building predictive models
+- Feature engineering recommended for optimal model performance
+- Ensure proper train-test split for validation
+
+
+CITATION
+=========
+If using this dataset, please cite the original source:
+Devavrata Poilkar. (2024). Credit Risk Dataset. Kaggle.
+https://www.kaggle.com/datasets/devavratapoilkar/credit-risk-dataset
