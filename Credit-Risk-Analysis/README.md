@@ -7,11 +7,11 @@
 
 > **Comprehensive statistical analysis of credit risk factors using advanced statistical methods to support data-driven lending decisions in banking operations.**
 
-## 📊 Project Overview
+##  Project Overview
 
 This project demonstrates **advanced statistical competency** essential for Data Analyst roles in the finance industry. Through rigorous statistical analysis of credit risk factors, it provides actionable insights for banking institutions to minimize default rates and optimize lending strategies.
 
-## 🎯 Business Problem
+##  Business Problem
 
 **Challenge**: Financial institutions need robust statistical frameworks to assess credit risk, minimize loan defaults, and make data-driven lending decisions.
 
@@ -53,7 +53,7 @@ This project demonstrates **advanced statistical competency** essential for Data
 - Feature importance analysis with statistical interpretation
 - Business model validation and insights
 
-## 🔍 Key Statistical Findings
+##  Key Statistical Findings
 
 | Statistical Analysis | Key Finding | Statistical Significance | Business Impact |
 |---------------------|-------------|-------------------------|-----------------|
@@ -62,21 +62,21 @@ This project demonstrates **advanced statistical competency** essential for Data
 | **Loan Grade Analysis** | Strong association with defaults | χ² test p<0.001 | Risk segmentation validation |
 | **Predictive Model** | Significant predictive power | ROC-AUC > 0.75 | Operational deployment ready |
 
-## 💼 Business Impact & Recommendations
+##  Business Impact & Recommendations
 
-### 📊 **Strategic Insights**
+### **Strategic Insights**
 1. **Interest Rate Risk**: Primary driver of default probability
 2. **Income Verification**: Critical factor in risk assessment
 3. **Loan Grade Classification**: Statistically validated risk segmentation
 4. **Employment Stability**: Key predictor for loan performance
 
-### 🎯 **Actionable Recommendations**
+### **Actionable Recommendations**
 1. **Enhanced Risk-Based Pricing**: Implement statistical models for interest rate optimization
 2. **Improved Underwriting**: Prioritize income verification and employment history
 3. **Portfolio Management**: Monitor high-risk segments using statistical thresholds
 4. **Automated Screening**: Deploy predictive models for loan approval processes
 
-### 📈 **Estimated Business Value**
+### **Estimated Business Value**
 - **15-25% reduction** in default rates through statistical insights
 - **Enhanced profitability** via optimized risk-based pricing
 - **Improved decision accuracy** through data-driven frameworks
@@ -102,7 +102,7 @@ jupyter>=1.0.0 # Interactive analysis environment
 
 text
 
-## 📊 Dataset Information
+##  Dataset Information
 
 - **Source**: [Credit Risk Dataset (Kaggle)](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
 - **Sample Size**: 32,000+ loan records
@@ -117,7 +117,7 @@ text
 | **Categorical** | Home Ownership, Loan Grade, Loan Intent | Chi-square tests, segmentation |
 | **Target** | Loan Status (Default/Non-Default) | Dependent variable for modeling |
 
-## 🚀 How to Reproduce
+##  How to Reproduce
 
 ### **Prerequisites**
 Install required libraries
@@ -139,31 +139,31 @@ Credit-Risk-Analysis/
 ├── data/
 │ └── credit_risk_dataset.csv # Source dataset
 ├── requirements.txt # Dependencies
-└── .gitignore # Git configuration
+
 
 text
 
 ## 🎓 Skills Demonstrated
 
 ### **Statistical Analysis**
-- ✅ Advanced hypothesis testing (t-tests, chi-square)
-- ✅ Effect size calculations and interpretation
-- ✅ Correlation analysis with significance testing
-- ✅ Distribution analysis and normality testing
+-  Advanced hypothesis testing (t-tests, chi-square)
+-  Effect size calculations and interpretation
+- Correlation analysis with significance testing
+- Distribution analysis and normality testing
 
 ### **Data Science**
-- ✅ Comprehensive data cleaning and preprocessing
-- ✅ Exploratory data analysis with statistical insights
-- ✅ Predictive modeling with proper validation
-- ✅ Business intelligence and strategic recommendations
+- Comprehensive data cleaning and preprocessing
+- Exploratory data analysis with statistical insights
+- Predictive modeling with proper validation
+- Business intelligence and strategic recommendations
 
 ### **Business Intelligence**
-- ✅ Risk assessment and segmentation frameworks
-- ✅ Financial industry domain knowledge
-- ✅ Strategic insight generation from statistical analysis
-- ✅ Data-driven decision support systems
+- Risk assessment and segmentation frameworks
+- Financial industry domain knowledge
+- Strategic insight generation from statistical analysis
+- Data-driven decision support systems
 
-## 🏆 Professional Value
+##  Professional Value
 
 This project demonstrates **advanced statistical analysis capabilities** essential for:
 
@@ -189,7 +189,7 @@ This project demonstrates **advanced statistical analysis capabilities** essenti
 
 ---
 
-## 📊 Analysis Highlights
+## Analysis Highlights
 
 **Statistical Rigor**: Comprehensive testing framework with proper significance interpretation  
 **Business Focus**: Industry-specific insights with quantified impact  
@@ -199,5 +199,6 @@ This project demonstrates **advanced statistical analysis capabilities** essenti
 ---
 
 *This project showcases advanced statistical analysis capabilities essential for Data Analyst roles in the banking and financial services industry.*
+
 
 **⭐ Star this repository if you find this statistical analysis valuable!**
