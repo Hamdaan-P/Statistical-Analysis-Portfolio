@@ -163,14 +163,19 @@ This project demonstrates proficiency in:
 ## 📞 Contact & Portfolio
 
 **Author**: Hamdaan P
+
 **Email**: phamdaan@gmail.com
+
 **LinkedIn**: https://www.linkedin.com/in/hamdaan-peshimam-547394ba/
+
 **Portfolio**:https://github.com/Hamdaan-P 
+
 
 **Skills Demonstrated**: Statistical Analysis • A/B Testing • Python Programming • Business Intelligence • Data Visualization • Marketing Analytics
 
 ---
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
+
 
 *This project showcases professional data analysis skills suitable for Data Analyst, Marketing Analyst, and Business Intelligence roles. The comprehensive statistical approach and business-focused insights demonstrate real-world analytical capabilities.*
