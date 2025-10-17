@@ -45,7 +45,7 @@ pip install pandas numpy matplotlib seaborn scipy
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Hamdaan_P/your-repo-name.git
+   git clone git clone https://github.com/Hamdaan-P/Statistical-Analysis-Portfolio.git
    cd your-repo-name
    ```
 
@@ -108,5 +108,6 @@ This project is licensed under the MIT License. Feel free to use it for educatio
 ## Contact
 
 If you have questions or suggestions, open an issue in this repository or contact me at [phamdaan@gmail.com].
+
 
 This project was created to showcase statistical skills for a Data Analyst role.
