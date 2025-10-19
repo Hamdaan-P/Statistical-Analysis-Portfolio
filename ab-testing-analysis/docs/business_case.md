@@ -32,7 +32,7 @@ Ad Campaign Allocation: 85% ($8,500,000)
 PSA Campaign Allocation: 15% ($1,500,000)
 Target Audience: 2,000,000 potential customers
 
-text
+
 
 ### Cost Structure Analysis
 
