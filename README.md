@@ -1,6 +1,6 @@
 # Statistical Analysis Portfolio
 
-Comprehensive portfolio demonstrating a variety of real-world statistical analysis projects using Python, Power BI, and Jupyter Notebooks. Each project folder presents a unique data scenario, complete with code, methodology, and business insights.
+Comprehensive portfolio demonstrating a variety of real-world statistical analysis projects using Python and Jupyter Notebooks. Each project folder presents a unique data scenario, complete with code, methodology, and business insights.
 
 ---
 
@@ -29,14 +29,13 @@ cd <project-folder>
 
 ## 🧮 Technologies Used
 - Python (pandas, numpy, scipy, matplotlib, seaborn)
-- Power BI (DAX, data modeling)
 - Jupyter Notebook
 
 ---
 
 ## 💡 About
 
-This repository showcases skills in statistical analysis, data visualization, business intelligence, and Python programming. Each project folder contains:
+This repository showcases skills in statistical analysis, data visualization and Python programming. Each project folder contains:
 - Example datasets
 - Notebooks, dashboards, and code
 - Project-readmes describing approach, findings, and business impact
