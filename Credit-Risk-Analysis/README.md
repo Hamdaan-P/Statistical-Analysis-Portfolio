@@ -100,7 +100,7 @@ seaborn>=0.11.0 # Advanced statistical visualizations
 Environment
 jupyter>=1.0.0 # Interactive analysis environment
 
-text
+
 
 ##  Dataset Information
 
@@ -123,7 +123,7 @@ text
 Install required libraries
 pip install pandas numpy scipy statsmodels scikit-learn matplotlib seaborn jupyter
 
-text
+''
 
 ### **Execution Steps**
 1. **Download Dataset**: Get from [Kaggle Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
@@ -141,7 +141,7 @@ Credit-Risk-Analysis/
 ├── requirements.txt # Dependencies
 
 
-text
+''
 
 ## 🎓 Skills Demonstrated
 
@@ -202,3 +202,4 @@ This project demonstrates **advanced statistical analysis capabilities** essenti
 
 
 **⭐ Star this repository if you find this statistical analysis valuable!**
+
