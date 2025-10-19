@@ -32,7 +32,6 @@ Determine whether advertisement campaigns produce significantly higher conversio
 Treatment Group (Ad): Users exposed to advertisement content
 Control Group (PSA): Users exposed to public service announcement content
 
-text
 
 ### Randomization
 - **Simple randomization** with unequal allocation
