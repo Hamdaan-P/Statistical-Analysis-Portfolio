@@ -73,17 +73,3 @@ matplotlib>=3.6.0 # Data visualization
 seaborn>=0.12.0 # Statistical data visualization
 jupyter>=1.0.0 # Interactive development environment
 
-text
-
-### 🚀 Quick Start
-Clone repository
-git clone https://github.com/yourusername/sales-performance-analysis.git
-cd sales-performance-analysis
-
-Install dependencies
-pip install -r requirements.txt
-
-Download dataset from Kaggle
-Place 'New-1000-Sales-Records.csv' in project directory
-Run analysis
-jupyter notebook Sales_Performance_Analysis.ipynb
