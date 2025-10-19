@@ -93,11 +93,12 @@ jupyter>=1.0.0 # Interactive analysis environment
 
 ###  Quick Start
 Clone repository
-git clone https://github.com/yourusername/customer-survey-analysis.git
+git clone https://github.com/Hamdaan-P/Statistical-Analysis-Portfolio.git
 cd customer-survey-analysis
 
 
 Download dataset from Kaggle
 Place 'Sales_with_NaNs_v1.3.csv' in project directory
 Run analysis
+
 jupyter notebook Customer_Survey_Analysis.ipynb
