@@ -1,3 +1,15 @@
+<!-- Add to your project README.md, right at the top! -->
+
+[![Python](https://img.shields.io/badge/python-3.7%2B-blue?logo=python)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/jupyter-notebooks-orange?logo=jupyter)]
+[![SQL](https://img.shields.io/badge/sql-database-blue?logo=sqlite)]
+[![Kaggle Dataset](https://img.shields.io/badge/kaggle-dataset-brightgreen?logo=kaggle)](https://www.kaggle.com/)
+[![Stars](https://img.shields.io/github/stars/Hamdaan-P/ML-Repo?style=social)](https://github.com/Hamdaan-P/ML-Repo/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/Hamdaan-P/ML-Repo/total.svg)](https://github.com/Hamdaan-P/ML-Repo)
+
+
+
+
 # Statistical Analysis Portfolio
 
 Comprehensive portfolio demonstrating a variety of real-world statistical analysis projects using Python and Jupyter Notebooks. Each project folder presents a unique data scenario, complete with code, methodology, and business insights.
