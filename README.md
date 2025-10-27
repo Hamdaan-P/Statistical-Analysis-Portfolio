@@ -57,6 +57,10 @@ This repository showcases skills in statistical analysis, data visualization and
 ## 🗂️ Navigation
 Visit each project folder for project-specific documentation and code.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+
 ---
 
 Feel free to update or add more details for each project as your portfolio grows!
